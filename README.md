@@ -1,3 +1,5 @@
+<p align="center"><img src="icon.svg" alt="PychoVIM symbol" width="112"></p>
+
 # PychoVIM
 
 Pierce & Pierce dress code. Fewer stupid editor defaults.
